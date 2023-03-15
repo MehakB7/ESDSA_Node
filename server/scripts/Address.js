@@ -1,0 +1,23 @@
+const address = [
+  {
+    publicKey:
+      "0417e810931907835c3832c51b0f729e80cdcb7f6ec2d064752e073b6406fd503afac531184c20b854cf4f45c951410a96d173d863f0891f7e1cdf16aac1078c8c",
+    privateKey:
+      "8824322b0cd71b14711c4c99265ad69abb236a27056cab89241c595b011caa13",
+    WalletAddress: "fe97775dc7694ceb9d754b7896dbc8325ef1650d",
+  },
+  {
+    publicKey:
+      "0461d7975750f3b9e1fb5cf1ea4e9a57e52ab48fa93cb936b1e2ddf4f4aa09e1127d2551f570599fd6e98c95e3277b2bde3ceb600646e23cbb5f0ce866c19b50e0",
+    privateKey:
+      "f0b73fd9aa4e667d9145807ba2eadaffe9bd8c70f1a00e98f637e1beb9b43292",
+    WalletAddress: "31d4ba2620a29389b32cfa8b5b45cf4b67a63283",
+  },
+  {
+    publicKey:
+      "044476d6df1f75445b1bf127a4ecc2307189c3f356e1a02f38df969f16b3dd779f7736d564d56ac9ac80a9d912956d9a11618b308b4d26b5e17fed3dd3db815c4b",
+    privateKey:
+      "c526fe22f7c1a595f16b49a8a521c665785dfea18d0b0fa419e454efd67fc37a",
+    WalletAddress: "c822299caa4699ce3a5bdb84e28758787ad32752",
+  },
+];
